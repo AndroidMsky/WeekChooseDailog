@@ -3,7 +3,9 @@ Android week choose dailog。一个安卓的周选择日历
 
 
 一款周选择日历的实现。效果如GIF图：
+
 ![这里写图片描述](http://img.blog.csdn.net/20170412114256834?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQW5kcm9pZE1za3k=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 喜欢可以点个star
 
 ###使用
