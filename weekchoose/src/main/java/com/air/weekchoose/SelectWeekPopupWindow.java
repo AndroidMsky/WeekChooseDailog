@@ -361,11 +361,11 @@ public class SelectWeekPopupWindow {
                     }
                     if (i == list.size() - 1 && hasFoot) {
                         if (monthData == 12) {
-                            monthData = 1;
-                            yearData++;
+                           // monthData = 1;
+                           // yearData++;
 
                         } else {
-                            monthData++;
+                           // monthData++;
                         }
 
                     }
